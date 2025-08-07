@@ -29,7 +29,7 @@ const TopAlbums = () => {
     <section>
       <article>
         <header className="mb-4">
-          <h1 className="text-2xl font-semibold mb-4">Top Albums</h1>
+          <h1 className="text-2xl font-semibold mb-4">Top </h1>
         </header>
         <main className="flex gap-4 flex-wrap">
           {filteredAlbums.map((album, index) => (
